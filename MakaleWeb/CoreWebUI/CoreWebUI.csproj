@@ -1,0 +1,129 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\bootstrap.css" />
+    <Content Remove="wwwroot\css\contact.css" />
+    <Content Remove="wwwroot\css\fontawesome-all.css" />
+    <Content Remove="wwwroot\css\jquery.desoslide.css" />
+    <Content Remove="wwwroot\css\single.css" />
+    <Content Remove="wwwroot\css\style.css" />
+    <Content Remove="wwwroot\js\bootstrap.js" />
+    <Content Remove="wwwroot\js\easing.js" />
+    <Content Remove="wwwroot\js\jquery-2.2.3.min.js" />
+    <Content Remove="wwwroot\js\jquery.desoslide.js" />
+    <Content Remove="wwwroot\js\jquery.flexisel.js" />
+    <Content Remove="wwwroot\js\modernizr.custom.min.js" />
+    <Content Remove="wwwroot\js\move-top.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\bootstrap.css" />
+    <None Include="wwwroot\css\contact.css" />
+    <None Include="wwwroot\css\fontawesome-all.css" />
+    <None Include="wwwroot\css\jquery.desoslide.css" />
+    <None Include="wwwroot\css\single.css" />
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\js\bootstrap.js" />
+    <None Include="wwwroot\js\easing.js" />
+    <None Include="wwwroot\js\jquery-2.2.3.min.js" />
+    <None Include="wwwroot\js\jquery.desoslide.js" />
+    <None Include="wwwroot\js\jquery.flexisel.js" />
+    <None Include="wwwroot\js\modernizr.custom.min.js" />
+    <None Include="wwwroot\js\move-top.js" />
+    <None Include="wwwroot\tema\about.html" />
+    <None Include="wwwroot\tema\blog1.html" />
+    <None Include="wwwroot\tema\blog2.html" />
+    <None Include="wwwroot\tema\blog3.html" />
+    <None Include="wwwroot\tema\contact.html" />
+    <None Include="wwwroot\tema\css\bootstrap.css" />
+    <None Include="wwwroot\tema\css\contact.css" />
+    <None Include="wwwroot\tema\css\fontawesome-all.css" />
+    <None Include="wwwroot\tema\css\jquery.desoslide.css" />
+    <None Include="wwwroot\tema\css\single.css" />
+    <None Include="wwwroot\tema\css\style.css" />
+    <None Include="wwwroot\tema\images\1.jpg" />
+    <None Include="wwwroot\tema\images\2.jpg" />
+    <None Include="wwwroot\tema\images\3.jpg" />
+    <None Include="wwwroot\tema\images\4.jpg" />
+    <None Include="wwwroot\tema\images\5.jpg" />
+    <None Include="wwwroot\tema\images\6.jpg" />
+    <None Include="wwwroot\tema\images\7.jpg" />
+    <None Include="wwwroot\tema\images\8.jpg" />
+    <None Include="wwwroot\tema\images\b1.jpg" />
+    <None Include="wwwroot\tema\images\b2.jpg" />
+    <None Include="wwwroot\tema\images\b3.jpg" />
+    <None Include="wwwroot\tema\images\b4.jpg" />
+    <None Include="wwwroot\tema\images\b5.jpg" />
+    <None Include="wwwroot\tema\images\banner1.jpg" />
+    <None Include="wwwroot\tema\images\banner2.jpg" />
+    <None Include="wwwroot\tema\images\banner3.jpg" />
+    <None Include="wwwroot\tema\images\banner4.jpg" />
+    <None Include="wwwroot\tema\images\banner5.jpg" />
+    <None Include="wwwroot\tema\images\left.png" />
+    <None Include="wwwroot\tema\images\m1.jpg" />
+    <None Include="wwwroot\tema\images\m2.jpg" />
+    <None Include="wwwroot\tema\images\m3.jpg" />
+    <None Include="wwwroot\tema\images\m4.jpg" />
+    <None Include="wwwroot\tema\images\right.png" />
+    <None Include="wwwroot\tema\images\t1.jpg" />
+    <None Include="wwwroot\tema\images\t2.jpg" />
+    <None Include="wwwroot\tema\images\t3.jpg" />
+    <None Include="wwwroot\tema\images\t4.jpg" />
+    <None Include="wwwroot\tema\images\Thumbs.db" />
+    <None Include="wwwroot\tema\images\top_up.png" />
+    <None Include="wwwroot\tema\index.html" />
+    <None Include="wwwroot\tema\js\bootstrap.js" />
+    <None Include="wwwroot\tema\js\easing.js" />
+    <None Include="wwwroot\tema\js\jquery-2.2.3.min.js" />
+    <None Include="wwwroot\tema\js\jquery.desoslide.js" />
+    <None Include="wwwroot\tema\js\jquery.flexisel.js" />
+    <None Include="wwwroot\tema\js\modernizr.custom.min.js" />
+    <None Include="wwwroot\tema\js\move-top.js" />
+    <None Include="wwwroot\tema\login.html" />
+    <None Include="wwwroot\tema\register.html" />
+    <None Include="wwwroot\tema\single.html" />
+    <None Include="wwwroot\tema\w3layouts-license.txt" />
+    <None Include="wwwroot\tema\webfonts\fa-brands-400.eot" />
+    <None Include="wwwroot\tema\webfonts\fa-brands-400.svg" />
+    <None Include="wwwroot\tema\webfonts\fa-brands-400.ttf" />
+    <None Include="wwwroot\tema\webfonts\fa-brands-400.woff" />
+    <None Include="wwwroot\tema\webfonts\fa-brands-400.woff2" />
+    <None Include="wwwroot\tema\webfonts\fa-regular-400.eot" />
+    <None Include="wwwroot\tema\webfonts\fa-regular-400.svg" />
+    <None Include="wwwroot\tema\webfonts\fa-regular-400.ttf" />
+    <None Include="wwwroot\tema\webfonts\fa-regular-400.woff" />
+    <None Include="wwwroot\tema\webfonts\fa-regular-400.woff2" />
+    <None Include="wwwroot\tema\webfonts\fa-solid-900.eot" />
+    <None Include="wwwroot\tema\webfonts\fa-solid-900.svg" />
+    <None Include="wwwroot\tema\webfonts\fa-solid-900.ttf" />
+    <None Include="wwwroot\tema\webfonts\fa-solid-900.woff" />
+    <None Include="wwwroot\tema\webfonts\fa-solid-900.woff2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj" />
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+  </ItemGroup>
+
+</Project>

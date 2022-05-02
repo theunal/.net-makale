@@ -1,0 +1,17 @@
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\bin\Debug\net6.0\Entities.dll
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\bin\Debug\net6.0\Entities.pdb
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\PROJELER\C#\yeni\MakaleWeb\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

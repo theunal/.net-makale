@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CoreWebUI
+build_property.RootNamespace = CoreWebUI
+build_property.ProjectDir = D:\PROJELER\C#\yeni\MakaleWeb\CoreWebUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\PROJELER\C#\yeni\MakaleWeb\CoreWebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Blog/BlogDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Comment/CommentListByBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDb21tZW50TGlzdEJ5QmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Comment/PartialAddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxQYXJ0aWFsQWRkQ29tbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Shared/Components/CommentList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbWVudExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Shared/Partial1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Shared/Partial2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Shared/Partial3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Shared/UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFVzZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJELER/C\#/yeni/MakaleWeb/CoreWebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9fhdh0cie4
